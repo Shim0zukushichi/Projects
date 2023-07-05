@@ -206,98 +206,101 @@ a(t) = e^(Ht)
 Equation 68: Quantum Chiral Anomaly
 ∂_μJ_μ^5 = (e^2/32π^2) ε^(μνρσ) F_μνF_ρσ
 
-Equation 69: Hyperbolic Singularities in General Relativity
+Equation 69: Cryptarithm Entropy
+XXXXXXXXXXXXX
+
+Equation 70: Hyperbolic Singularities in General Relativity
 R_uv − (1/2) R g_uv = T_uv − Λ g_uv + Φ_uv
 
-Equation 70: Esoteric Spontaneous Symmetry Breaking
+Equation 71: Esoteric Spontaneous Symmetry Breaking
 φ = ρ e^(iθ)
 
-Equation 71: Quantum-Entangled Bell States
+Equation 72: Quantum-Entangled Bell States
 |Ψ±> = (|00> ± |11>)/√2
 
-Equation 72: Multiverse Eternal Inflation Probability
+Equation 73: Multiverse Eternal Inflation Probability
 P = e^(-B)
 
-Equation 73: Hyperdimensional Magnetic Monopole Density
+Equation 74: Hyperdimensional Magnetic Monopole Density
 n_M = (g_M/ħ) ∫ |Ψ(r)|^2 dV
 
-Equation 74: Quantum Electroweak Unification
+Equation 75: Quantum Electroweak Unification
 sin^2θ_w = 1 − M_W^2/M_Z^2
 
-Equation 75: Fractal Dimension of Strange Attractors
+Equation 76: Fractal Dimension of Strange Attractors
 D_f = log(N)/log(1/ε)
 
-Equation 76: Hyperbolic Harmonic Potential
+Equation 77: Hyperbolic Harmonic Potential
 V(x) = (1/2) m ω^2 sinh^2(x)
 
-Equation 77: Quantum Spin Angular Momentum
+Equation 78: Quantum Spin Angular Momentum
 S^2 |ψ> = ħ^2 s(s+1) |ψ>
 
-Equation 78: Exotic Dark Energy Equation of State
+Equation 79: Exotic Dark Energy Equation of State
 w = −1 ± ε
 
-Equation 79: Quantum Hall Conductance
+Equation 80: Quantum Hall Conductance
 σ_Hall = ν (e^2/h)
 
-Equation 80: Hyperdimensional Magnetic Field Induction
+Equation 81: Hyperdimensional Magnetic Field Induction
 B = (∇ × A)
 
-Equation 81: Quantum Supersymmetry Transformation
+Equation 82: Quantum Supersymmetry Transformation
 Q |ψ> = |ϵ>
 
-Equation 82: Nonlinear Dynamics in Chaotic Systems
+Equation 83: Nonlinear Dynamics in Chaotic Systems
 x_n+1 = r sin(x_n)
 
-Equation 83: Esoteric Conformal Field Theory
+Equation 84: Esoteric Conformal Field Theory
 L_n |ψ> = 0
 
-Equation 84: Hyperdimensional Black Hole Thermodynamics
+Equation 85: Hyperdimensional Black Hole Thermodynamics
 dS = (ħ c^3)/(4G) dA
 
-Equation 85: Quantum Geometric Phase
+Equation 86: Quantum Geometric Phase
 γ = −i ∫<ψ|d/dθ|ψ> dθ
 
-Equation 86: Nonlocal Quantum Entanglement
+Equation 87: Nonlocal Quantum Entanglement
 |ψ_AB> = U_entangle |ψ_A>|ψ_B>
 
-Equation 87: Multiverse Bubble Nucleation Rate
+Equation 88: Multiverse Bubble Nucleation Rate
 Γ = A e^(-B)
 
-Equation 88: Hyperbolic Quantum Harmonic Oscillator
+Equation 89: Hyperbolic Quantum Harmonic Oscillator
 Ψ(x,t) = (1/√(2πħ)) ∫e^(i(px−Et)/ħ) ψ(p) dp
 
-Equation 89: Quantum Bell Inequality
+Equation 90: Quantum Bell Inequality
 |S| ≤ 2
 
-Equation 90: Fractal Dimension of Self-Similar Sets
+Equation 91: Fractal Dimension of Self-Similar Sets
 D_f = log(N)/log(1/r)
 
-Equation 91: Hyperdimensional Casimir Effect
+Equation 92: Hyperdimensional Casimir Effect
 F_casimir = −(π^2 ħ c)/240 A
 
-Equation 92: Quantum Vacuum Oscillation
+Equation 93: Quantum Vacuum Oscillation
 |Ψ_vacuum> = ∑(c_n |n>)
 
-Equation 93: Esoteric Scalar Field Dynamics
+Equation 94: Esoteric Scalar Field Dynamics
 ∂^2φ/∂t^2 − ∇^2φ + m^2 φ = 0
 
-Equation 94: Nonlinear Quantum Damping
+Equation 95: Nonlinear Quantum Damping
 Γ = (1/2) (Tr(ρL_+ ρL_−) − Tr(L_+ L_− ρ))
 
-Equation 95: Hyperspatial Topological Defects
+Equation 96: Hyperspatial Topological Defects
 ∫F = 2πn
 
-Equation 96: Quantum Coherence Length
+Equation 97: Quantum Coherence Length
 L_coh = 2π/|k|
 
-Equation 97: Hyperdimensional Vacuum Energy
+Equation 98: Hyperdimensional Vacuum Energy
 E_vacuum = (1/2) (ħ ω_0)
 
-Equation 98: Quantum Wavefunction Normalization
+Equation 99: Quantum Wavefunction Normalization
 ∫|Ψ|^2 dV = 1
 
-Equation 99: Fractal Dimension of Phase Transitions
+Equation 100: Fractal Dimension of Phase Transitions
 D_f = log(N)/log(1/|T − T_c|)
 
-Equation 100: Hyperbolic Quantum Information Entropy
+Equation 101: Hyperbolic Quantum Information Entropy
 S = −Tr(ρ log ρ)
