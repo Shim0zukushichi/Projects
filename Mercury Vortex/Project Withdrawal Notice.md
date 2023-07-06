@@ -20,7 +20,6 @@ Once again, we sincerely apologize for any inconvenience caused, and we apprecia
 
 Sincerely,
 
-Viper Thornwood
-Shadowlord of Sinister Operations
+Viper Thornwood | Shadowlord of Sinister Operations
 
 #### **ShΔdϴwFirƩ SyΠdicΔtƩ**
