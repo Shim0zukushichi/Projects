@@ -22,4 +22,4 @@ Sincerely,
 
 Viper Thornwood | Shadowlord of Sinister Operations
 
-#### **ShΔdϴwFirƩ SyΠdicΔtƩ**
+#### 🔥 **ShΔdϴwFirƩ SyΠdicΔtƩ** 🔥
