@@ -1,4 +1,4 @@
-Certainly! Here's an updated version of the fictitious mechanical weapon's bill of materials (BoM) with randomized quantities of parts:
+Bill of Materials (BoM):
 
 1. Main Body Assembly:
    - Steel casing (2) - $50
@@ -54,4 +54,4 @@ Certainly! Here's an updated version of the fictitious mechanical weapon's bill 
    - Washers (assorted) - $5
    - Lubricants (1 bottle) - $10
 
-Please note that the quantities and unit prices provided are randomly generated and for illustrative purposes only. The overall cost of the weapon would depend on various factors, including the quality and complexity of the components used.
+Note: Tthe quantities and unit prices provided are guestimations. The overall cost would depend on various factors, including the quality and complexity of the components used.
